@@ -74,10 +74,10 @@ td {
 								</td>
 								<td width="100px"><%=rs.getString("ip")%></td>
 								<td>
-									<a href="Ex03_MemberDelete.jsp?id=<%=rs.getString("id")%>">[삭제]</a>
+									<a href="Ex03_MemberDelete.jsp?id=<%=rs.getString(">[삭제]</a>
 								</td>
 								<td>
-									<a href="Ex03_MemberEdit.jsp?id=<%=rs.getString("id")%>">[수정]</a>
+									<a href="Ex03_MemberEdit.jsp?id=<%=rs.getString(">[수정]</a>
 								</td>
 							</tr> 
 						<% } %>

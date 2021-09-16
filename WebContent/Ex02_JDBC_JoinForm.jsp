@@ -10,7 +10,7 @@ table {
 	border: solid 2px black;
 	border-collapse: collapse;
 }
-
+/*fdfd*/
 tr {
 	border: solid 1px blue;
 	background-color: white;

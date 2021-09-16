@@ -36,7 +36,7 @@ td {
 			</td>
 			<td style="width: 700px">
 				<form action="Ex02_JDBC_loginok.jsp" method="post" name="loginForm"
-					id="joinForm">
+                      id="joinForm">
 
 					<h3 style="text-align: center;">Login Page</h3>
 					<div>
